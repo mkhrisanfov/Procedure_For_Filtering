@@ -1,0 +1,3 @@
+## Procedure For Finding Potentially Erroneous Entries in the Database of Retention Indices
+
+This repository contains some supplementary code and materials for the article "A general procedure for finding potentially erroneous entries in the database of retention indices". This code was extracted from production, however, there may be some omissions to protect the original copyrighted data. The described procedure and the code are likely to be updated to a more polished version in the future.
